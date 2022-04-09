@@ -1,0 +1,1585 @@
+{
+  "users" : {
+    "1O3Jhzqb6DZJ8lNy6eLGgnv1ExK2" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 169,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 169,
+            "FailedAttempt" : 33,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 0,
+            "TotalAttempt" : 35,
+            "TotalTimeSpent" : 169,
+            "ZeroErrorForSuccess" : 6
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 150,
+            "FailedAttempt" : 8,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 0,
+            "TotalAttempt" : 9,
+            "TotalTimeSpent" : 155,
+            "ZeroErrorForSuccess" : 8
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 248,
+            "FailedAttempt" : 16,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 17,
+            "TotalTimeSpent" : 248,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 814,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 159,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 4,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 1
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 320,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 2,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 1
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : false,
+        "achievement4UnlockedDate" : "",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Gideon",
+      "currentCharacterID" : 0,
+      "joinedDate" : "2 March 2021",
+      "lastOnline" : "2021,03,12,02,14,54",
+      "telescopes" : {
+        "telescope1" : false,
+        "telescope2" : false,
+        "telescope3" : false,
+        "telescope4" : true,
+        "telescope5" : false,
+        "telescope6" : false,
+        "telescope7" : true
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 76200,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 572,
+      "tutorialCompleted" : false,
+      "userEmail" : "kelvinywk99@gmail.com",
+      "userName" : "NasiLmk"
+    },
+    "70Tn37n2kwQ7VvNEcmaGXqpbJMI2" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : false,
+        "achievement4UnlockedDate" : "",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Phase",
+      "currentCharacterID" : 0,
+      "joinedDate" : "3 March 2021",
+      "lastOnline" : "2021,03,03,14,20,33",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : false,
+        "telescope3" : false,
+        "telescope4" : false,
+        "telescope5" : false,
+        "telescope6" : false,
+        "telescope7" : false
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 0,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 0,
+      "tutorialCompleted" : true,
+      "userEmail" : "jerry.voonsz@gmail.com",
+      "userName" : "Ju5t_V"
+    },
+    "IIdu8DFuyIgdmsX2COh5CjMWd4H3" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 432,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 2,
+            "BestTimeinSec" : 432,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 2,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 432,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 482,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 3,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 487,
+            "ZeroErrorForSuccess" : 1
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 508,
+            "FailedAttempt" : 2,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 5,
+            "TotalAttempt" : 3,
+            "TotalTimeSpent" : 511,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 311,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 28,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 2,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 28,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 30,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 5,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 30,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 232,
+            "FailedAttempt" : 5,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 4,
+            "TotalAttempt" : 6,
+            "TotalTimeSpent" : 322,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : true,
+        "achievement4UnlockedDate" : "1 March 2021, 18:03:43",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Phase",
+      "currentCharacterID" : 0,
+      "joinedDate" : "1 March 2021",
+      "lastOnline" : "2021,03,01,18,32,44",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : true,
+        "telescope3" : false,
+        "telescope4" : true,
+        "telescope5" : false,
+        "telescope6" : false,
+        "telescope7" : true
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 84350,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 2091,
+      "tutorialCompleted" : true,
+      "userEmail" : "shuohxjuin10@hotmail.com",
+      "userName" : "Nickkay"
+    },
+    "MbsFeVBsNENd5eiSO3Zu6IREB8M2" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 133,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 133,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 0,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 133,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 570,
+            "FailedAttempt" : 9,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 10,
+            "TotalTimeSpent" : 570,
+            "ZeroErrorForSuccess" : 9
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 356,
+            "FailedAttempt" : 11,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 4,
+            "TotalAttempt" : 12,
+            "TotalTimeSpent" : 562,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 1018,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 305,
+            "FailedAttempt" : 12,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 0,
+            "TotalAttempt" : 13,
+            "TotalTimeSpent" : 305,
+            "ZeroErrorForSuccess" : 12
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 100,
+            "FailedAttempt" : 5,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 6,
+            "TotalTimeSpent" : 100,
+            "ZeroErrorForSuccess" : 5
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 468,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 4,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 468,
+            "ZeroErrorForSuccess" : 1
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : true,
+        "achievement4UnlockedDate" : "2 March 2021, 22:26:10",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Phase",
+      "currentCharacterID" : 0,
+      "joinedDate" : "2 March 2021",
+      "lastOnline" : "2021,03,02,22,29,08",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : true,
+        "telescope3" : true,
+        "telescope4" : true,
+        "telescope5" : false,
+        "telescope6" : true,
+        "telescope7" : true
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 81550,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 3169,
+      "tutorialCompleted" : true,
+      "userEmail" : "1161202726@student.mmu.edu.my",
+      "userName" : "azifh"
+    },
+    "MuK5bqkErzWa3OsuND36pvNyz573" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 573,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 573,
+            "FailedAttempt" : 6,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 3,
+            "TotalAttempt" : 7,
+            "TotalTimeSpent" : 573,
+            "ZeroErrorForSuccess" : 4
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 338,
+            "FailedAttempt" : 2,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 4,
+            "TotalAttempt" : 3,
+            "TotalTimeSpent" : 377,
+            "ZeroErrorForSuccess" : 1
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 743,
+            "FailedAttempt" : 3,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 5,
+            "TotalAttempt" : 4,
+            "TotalTimeSpent" : 822,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 2,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 581,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 41,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 3,
+            "TotalAttempt" : 3,
+            "TotalTimeSpent" : 55,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 60,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 7,
+            "TotalAttempt" : 3,
+            "TotalTimeSpent" : 100,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 355,
+            "FailedAttempt" : 3,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 4,
+            "TotalAttempt" : 4,
+            "TotalTimeSpent" : 355,
+            "ZeroErrorForSuccess" : 3
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : true,
+        "achievement3UnlockedDate" : "2 March 2021, 05:07:07",
+        "achievement4" : true,
+        "achievement4UnlockedDate" : "2 March 2021, 05:07:07",
+        "achievement5" : true,
+        "achievement5UnlockedDate" : "2 March 2021, 05:07:07",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Wukong",
+      "currentCharacterID" : 0,
+      "joinedDate" : "2 March 2021",
+      "lastOnline" : "2021,03,02,05,32,53",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : true,
+        "telescope3" : false,
+        "telescope4" : true,
+        "telescope5" : true,
+        "telescope6" : true,
+        "telescope7" : true
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 65900,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 3774,
+      "tutorialCompleted" : true,
+      "userEmail" : "cwxjitsin_1999@hotmail.com",
+      "userName" : "zhongdanmeishan"
+    },
+    "X3Wea7zNP0Sg5oKdXAgHGd02mB83" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 81,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 81,
+            "FailedAttempt" : 3,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 2,
+            "TotalAttempt" : 4,
+            "TotalTimeSpent" : 81,
+            "ZeroErrorForSuccess" : 3
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 193,
+            "FailedAttempt" : 5,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 6,
+            "TotalTimeSpent" : 214,
+            "ZeroErrorForSuccess" : 1
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 452,
+            "FailedAttempt" : 20,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 4,
+            "TotalAttempt" : 21,
+            "TotalTimeSpent" : 638,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 663,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 117,
+            "FailedAttempt" : 16,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 3,
+            "TotalAttempt" : 17,
+            "TotalTimeSpent" : 167,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 10,
+            "FailedAttempt" : 18,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 7,
+            "TotalAttempt" : 20,
+            "TotalTimeSpent" : 53,
+            "ZeroErrorForSuccess" : 5
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 359,
+            "FailedAttempt" : 32,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 4,
+            "TotalAttempt" : 33,
+            "TotalTimeSpent" : 550,
+            "ZeroErrorForSuccess" : 4
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : true,
+        "achievement3UnlockedDate" : "1 March 2021, 20:54:37",
+        "achievement4" : true,
+        "achievement4UnlockedDate" : "1 March 2021, 20:54:37",
+        "achievement5" : true,
+        "achievement5UnlockedDate" : "1 March 2021, 20:54:37",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Phase",
+      "currentCharacterID" : 0,
+      "joinedDate" : "1 March 2021",
+      "lastOnline" : "2021,03,01,20,55,21",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : false,
+        "telescope3" : true,
+        "telescope4" : false,
+        "telescope5" : true,
+        "telescope6" : false,
+        "telescope7" : true
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 72000,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 2447,
+      "tutorialCompleted" : true,
+      "userEmail" : "florexongpeiyong@gmail.com",
+      "userName" : "florexong"
+    },
+    "f6PoldmfwvTFT486S7f6ov2gz643" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 862,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 2,
+            "BestTimeinSec" : 862,
+            "FailedAttempt" : 17,
+            "SuccessAttempt" : 3,
+            "TipsFound" : 1,
+            "TotalAttempt" : 20,
+            "TotalTimeSpent" : 862,
+            "ZeroErrorForSuccess" : 3
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 161,
+            "FailedAttempt" : 10,
+            "SuccessAttempt" : 3,
+            "TipsFound" : 0,
+            "TotalAttempt" : 13,
+            "TotalTimeSpent" : 161,
+            "ZeroErrorForSuccess" : 1
+          },
+          "Ministage3" : {
+            "AFHCount" : 5,
+            "BestTimeinSec" : 435,
+            "FailedAttempt" : 54,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 5,
+            "TotalAttempt" : 56,
+            "TotalTimeSpent" : 596,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 2,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 3,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : true,
+        "achievement4UnlockedDate" : "1 March 2021, 19:35:37",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Wukong",
+      "currentCharacterID" : 0,
+      "joinedDate" : "1 March 2021",
+      "lastOnline" : "2021,03,01,20,17,26",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : false,
+        "telescope3" : false,
+        "telescope4" : false,
+        "telescope5" : false,
+        "telescope6" : true,
+        "telescope7" : false
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 114550,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 2481,
+      "tutorialCompleted" : true,
+      "userEmail" : "1171102238@student.mmu.edu.my",
+      "userName" : "Seri Kembangan 🌚"
+    },
+    "fn2Sdkn4efUkh3FyZv9cqmUnLMM2" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 185,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 59,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 59,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 82,
+            "FailedAttempt" : 2,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 3,
+            "TotalTimeSpent" : 82,
+            "ZeroErrorForSuccess" : 2
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 39,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 0,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 39,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 308,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 2,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 169,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 43,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 43,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 97,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 97,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : false,
+        "achievement4UnlockedDate" : "",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Wukong",
+      "currentCharacterID" : 3,
+      "joinedDate" : "9 March 2021",
+      "lastOnline" : "2021,03,09,04,18,13",
+      "telescopes" : {
+        "telescope1" : false,
+        "telescope2" : true,
+        "telescope3" : false,
+        "telescope4" : true,
+        "telescope5" : true,
+        "telescope6" : true,
+        "telescope7" : true
+      },
+      "totalAFHCount" : 2,
+      "totalScore" : 89300,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 491,
+      "tutorialCompleted" : false,
+      "userEmail" : "chemistlab@gmail.com",
+      "userName" : "ChemistLab"
+    },
+    "lUsJft8j8mguqmq1EEP4kAB4Uz43" : {
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 99,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 36,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 9,
+            "TipsFound" : 1,
+            "TotalAttempt" : 9,
+            "TotalTimeSpent" : 166,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 32,
+            "FailedAttempt" : 9,
+            "SuccessAttempt" : 9,
+            "TipsFound" : 3,
+            "TotalAttempt" : 18,
+            "TotalTimeSpent" : 52,
+            "ZeroErrorForSuccess" : 1
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 33,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 9,
+            "TipsFound" : 1,
+            "TotalAttempt" : 9,
+            "TotalTimeSpent" : 57,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 4
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 292,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 31,
+            "BestTimeinSec" : 29,
+            "FailedAttempt" : 2,
+            "SuccessAttempt" : 17,
+            "TipsFound" : 3,
+            "TotalAttempt" : 19,
+            "TotalTimeSpent" : 562,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 3,
+            "BestTimeinSec" : 72,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 17,
+            "TipsFound" : 1,
+            "TotalAttempt" : 17,
+            "TotalTimeSpent" : 216,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 63,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 17,
+            "TipsFound" : 2,
+            "TotalAttempt" : 18,
+            "TotalTimeSpent" : 351,
+            "ZeroErrorForSuccess" : 1
+          },
+          "NoOfPlay" : 2,
+          "NoOfPlayAB" : 2,
+          "NoOfRestart" : 3
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : true,
+        "achievement4UnlockedDate" : "1 March 2021, 09:23:24",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Phase",
+      "currentCharacterID" : 1,
+      "joinedDate" : "27 February 2021",
+      "lastOnline" : "2021,03,12,20,37,29",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : true,
+        "telescope3" : true,
+        "telescope4" : true,
+        "telescope5" : false,
+        "telescope6" : false,
+        "telescope7" : true
+      },
+      "totalAFHCount" : 11,
+      "totalScore" : 543300,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 12315,
+      "tutorialCompleted" : true,
+      "userEmail" : "proscawards99@gmail.com",
+      "userName" : "proscawards"
+    },
+    "rzcgMsxfZWaxhWJO0ZY9532vfqh2" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : false,
+        "achievement4UnlockedDate" : "",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Wukong",
+      "currentCharacterID" : 0,
+      "joinedDate" : "2 March 2021",
+      "lastOnline" : "2021,03,02,15,17,31",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : false,
+        "telescope3" : false,
+        "telescope4" : false,
+        "telescope5" : false,
+        "telescope6" : false,
+        "telescope7" : false
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 0,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 0,
+      "tutorialCompleted" : false,
+      "userEmail" : "tmyteo.99@gmail.com",
+      "userName" : "tmy"
+    },
+    "v6xl9pxlsCUPlfhqoHjg3PomEii1" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 211,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 211,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 3,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 123,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 1
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 227,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 4,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 180,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 34,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 3,
+            "TipsFound" : 0,
+            "TotalAttempt" : 3,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 3,
+            "SuccessAttempt" : 3,
+            "TipsFound" : 7,
+            "TotalAttempt" : 6,
+            "TotalTimeSpent" : 117,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 90,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 4,
+            "TotalAttempt" : 3,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : false,
+        "achievement4UnlockedDate" : "",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Phase",
+      "currentCharacterID" : 0,
+      "joinedDate" : "1 March 2021",
+      "lastOnline" : "2021,03,01,19,05,49",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : true,
+        "telescope3" : false,
+        "telescope4" : true,
+        "telescope5" : true,
+        "telescope6" : true,
+        "telescope7" : false
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 84850,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 0,
+      "tutorialCompleted" : true,
+      "userEmail" : "sgong1039@gmail.com",
+      "userName" : "sg"
+    },
+    "zkO9zxbxuoTypV4LB9xkOe1EQUj1" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 2,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 6,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 1,
+            "TotalAttempt" : 7,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 6
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 2,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : false,
+        "achievement4UnlockedDate" : "",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Phase",
+      "currentCharacterID" : 0,
+      "joinedDate" : "2 March 2021",
+      "lastOnline" : "2021,03,02,15,32,07",
+      "telescopes" : {
+        "telescope1" : false,
+        "telescope2" : false,
+        "telescope3" : false,
+        "telescope4" : false,
+        "telescope5" : false,
+        "telescope6" : false,
+        "telescope7" : false
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 0,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 0,
+      "tutorialCompleted" : false,
+      "userEmail" : "henry@firebase.com",
+      "userName" : "henry"
+    },
+    "zmrMM7ZrH3WvCRABziJye9lWP512" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 0,
+          "Completion" : false,
+          "Ministage1" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 3,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 0,
+            "TotalAttempt" : 4,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 3
+          },
+          "Ministage2" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 1,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 0,
+            "BestTimeinSec" : 0,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 0,
+            "TotalTimeSpent" : 0,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 0,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : false,
+        "achievement4UnlockedDate" : "",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Phase",
+      "currentCharacterID" : 0,
+      "joinedDate" : "4 March 2021",
+      "lastOnline" : "2021,03,04,21,54,21",
+      "telescopes" : {
+        "telescope1" : false,
+        "telescope2" : false,
+        "telescope3" : false,
+        "telescope4" : false,
+        "telescope5" : false,
+        "telescope6" : false,
+        "telescope7" : false
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 0,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 0,
+      "tutorialCompleted" : false,
+      "userEmail" : "leonkokzhenghoong@gmail.com",
+      "userName" : "Leon4037"
+    },
+    "zp6dfHTpvDVYPCoTeCOVH0yMRcd2" : {
+      "OverallPercent" : 0,
+      "StoryMode" : {
+        "Antarticium1" : {
+          "BestTimeinSec" : 93,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 2,
+            "BestTimeinSec" : 93,
+            "FailedAttempt" : 25,
+            "SuccessAttempt" : 2,
+            "TipsFound" : 3,
+            "TotalAttempt" : 27,
+            "TotalTimeSpent" : 93,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 36,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 0,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 36,
+            "ZeroErrorForSuccess" : 1
+          },
+          "Ministage3" : {
+            "AFHCount" : 2,
+            "BestTimeinSec" : 159,
+            "FailedAttempt" : 3,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 0,
+            "TotalAttempt" : 4,
+            "TotalTimeSpent" : 159,
+            "ZeroErrorForSuccess" : 0
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        },
+        "Terrarium1" : {
+          "BestTimeinSec" : 595,
+          "Completion" : true,
+          "Ministage1" : {
+            "AFHCount" : 2,
+            "BestTimeinSec" : 53,
+            "FailedAttempt" : 3,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 0,
+            "TotalAttempt" : 4,
+            "TotalTimeSpent" : 238,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage2" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 30,
+            "FailedAttempt" : 0,
+            "SuccessAttempt" : 1,
+            "TipsFound" : 5,
+            "TotalAttempt" : 1,
+            "TotalTimeSpent" : 100,
+            "ZeroErrorForSuccess" : 0
+          },
+          "Ministage3" : {
+            "AFHCount" : 1,
+            "BestTimeinSec" : 120,
+            "FailedAttempt" : 1,
+            "SuccessAttempt" : 0,
+            "TipsFound" : 0,
+            "TotalAttempt" : 2,
+            "TotalTimeSpent" : 120,
+            "ZeroErrorForSuccess" : 1
+          },
+          "NoOfPlay" : 1,
+          "NoOfPlayAB" : 0,
+          "NoOfRestart" : 0
+        }
+      },
+      "achievementUnlocked" : {
+        "achievement1" : false,
+        "achievement1UnlockedDate" : "",
+        "achievement2" : false,
+        "achievement2UnlockedDate" : "",
+        "achievement3" : false,
+        "achievement3UnlockedDate" : "",
+        "achievement4" : false,
+        "achievement4UnlockedDate" : "",
+        "achievement5" : false,
+        "achievement5UnlockedDate" : "",
+        "achievement6" : false,
+        "achievement6UnlockedDate" : ""
+      },
+      "currentCharacter" : "Wukong",
+      "currentCharacterID" : 3,
+      "joinedDate" : "2 March 2021",
+      "lastOnline" : "2021,03,05,16,49,31",
+      "telescopes" : {
+        "telescope1" : true,
+        "telescope2" : true,
+        "telescope3" : true,
+        "telescope4" : true,
+        "telescope5" : false,
+        "telescope6" : false,
+        "telescope7" : true
+      },
+      "totalAFHCount" : 3,
+      "totalScore" : 83400,
+      "totalTelescopeClicked" : 0,
+      "totalTimeSpent" : 1434,
+      "tutorialCompleted" : true,
+      "userEmail" : "1171101550@student.mmu.edu.my",
+      "userName" : "wtf"
+    }
+  }
+}
